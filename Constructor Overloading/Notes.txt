@@ -1,0 +1,6 @@
+//Calculator calc =new Calculator();
+new Calculator().add();//Anonymous object(no name object)
+}
+
+ add(){
+}

@@ -1,0 +1,8 @@
+Multiple Inheritance:
+Interface: Indirectly Multiple Inheritance:
+Diamond Problem:
+
+
+Implementation=class
+
+Interface in implementing class

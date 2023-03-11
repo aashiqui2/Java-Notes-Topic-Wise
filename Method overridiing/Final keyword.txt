@@ -1,0 +1,27 @@
+final:
+We cannot override Final methods.
+we cannot re-assign final methods.
+we cannot extends final class.
+
+private variable:same class Access,reassign
+final variable:can be accessed from other classes,reassign not posssible anywhere.
+
+private:
+
+if atleast one method is abstract the entire class is abstract.
+
+Parent2 is abstract; cannot be instantiated
+
+instance-object
+
+Inheritance:Child Object behaves as Parent Object
+
+Abstraction:
+Showing only necessary and hiding unwanted data
+
+why do we need Abstarction
+
+abstarct: overriding:inheritance:encapsulation
+abstract method cannot be private
+
+method overriding is runtime polymorphism

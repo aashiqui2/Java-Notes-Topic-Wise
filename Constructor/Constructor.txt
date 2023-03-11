@@ -1,0 +1,25 @@
+what is constructor?
+constructor is useful for  initializing object specific values.
+it is created using the same name of our class name.
+constructor area is getting called automatically when object/instance  is created. [object--instance] [class is instantiated]
+constructor doesnt have any return type.
+Default constructor is invisible.
+This default constructor will call the no-argument constructor of the superclass.
+The compiler automatically provides a no-argument, default constructor for any class without constructors.
+Once we overload constructor, it becomes visible.
+once we have visible constructor,there is no,no-argument constructor.
+
+
+
+Fields will be asigned with default values.
+byte,short,int,long: 0
+float,double: 0.0
+boolean: false
+char:''(empty)
+String: null
+
+
+This keyword:
+it refer to the current object of same class.  
+this can be used only inside non-static[object specific] area or context.
+inside static blocks,statiuc methods we cant use this keyword
