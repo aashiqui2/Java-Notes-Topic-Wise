@@ -1,10 +1,10 @@
 abstract method -abstract class:
 abstract class -abstract method:
-if we have abstarct method in a class then definitely the class is abstract,Reecerse is not true.
-We can Maintain an abstarct class without any abstarct methods.
+if we have abstarct method in a class then definitely the class is abstract,Recursive is not true.
+ We can Maintain an abstarct class without any abstarct methods.
 
 
-Abstract class cannot be instantiated.
+ Abstract class cannot be instantiated.
 
 child class object can be created if child class is non abstract class.
 
