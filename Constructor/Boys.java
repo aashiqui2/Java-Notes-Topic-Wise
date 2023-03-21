@@ -1,4 +1,3 @@
-
 public class Boys {
 	String name;//fields//global variable
 	int amount;

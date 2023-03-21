@@ -3,22 +3,17 @@
 	 //field // non-static // Global variable
 	String brand;
 	int price,discount;
-	Shop(String brand,int price,int discount){
-//		System.out.println(a);
-//		System.out.println(b);
-//		System.out.println(c);
+	Shop(String brand,int price,int discount){	
 //		brand=a;
 //		price=b;
 //		discount=c;
+//      System.out.println(a);
+//		System.out.println(b);
+//		System.out.println(c);
 		this.brand=brand;//this keyword
 		this.price=price;
 		this.discount=discount;
 		
-	}
-	void buy() {
-		System.out.println(brand);
-		System.out.println(price);
-		System.out.println(discount);
 	}
 	Shop(String brand,int price){
 		this.brand=brand;
@@ -26,6 +21,11 @@
 	}
 	Shop(){
 		System.out.println("No-arguments construtor");
+	}
+	void buy() {
+		System.out.println(brand);
+		System.out.println(price);
+		System.out.println(discount);
 	}
 	 
 	public static void main(String[] args) {

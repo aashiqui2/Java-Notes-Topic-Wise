@@ -22,4 +22,4 @@ String: null
 This keyword:
 it refer to the current object of same class.  
 this can be used only inside non-static[object specific] area or context.
-inside static blocks,statiuc methods we cant use this keyword
+inside static blocks,static methods we cant use this keyword
