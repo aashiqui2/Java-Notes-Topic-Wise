@@ -1,12 +1,15 @@
 public class Child1 extends Parent1{
+//private int a=10;
 Child1(){
 System.out.println("iam child class no-arg constructor");
 }
 public static void main(String[] args){
 Child1 raman=new Child1();
 raman.work();
+raman.a=20;
+System.out.println(raman.a);
 System.out.println(raman.pocket_money);
-raman.pocket_money=100;
+//raman.pocket_money=100;
 System.out.println(raman.pocket_money);
 }
 //Method Overriding
